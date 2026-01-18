@@ -6,7 +6,7 @@ Fetches your external IP address by racing 24 public services in parallel. Retur
 
 ```elixir
 def deps do
-  [{:what_is_my_ip, git: "https://github.com/..."}]
+  [{:what_is_my_ip, github: "/chgeuer/what_is_my_ip"}]
 end
 ```
 
